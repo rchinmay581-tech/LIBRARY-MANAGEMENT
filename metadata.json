@@ -1,0 +1,6 @@
+{
+  "name": "Library Ledger",
+  "description": "Multi-database PostgreSQL record lookup for students, books, and library transactions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
